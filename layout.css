@@ -452,7 +452,13 @@ background: #0A075F;
     column-gap: 15px;
     padding: 60px;
 }
-
+.blog-box {
+    width: 343.05px;
+    height: 360px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    filter: drop-shadow(0px 18.9529px 47.3822px rgba(119, 115, 170, 0.1));
+}
 #main div {
     flex-grow: 1;
     flex-shrink: 1;
