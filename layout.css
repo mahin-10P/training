@@ -446,7 +446,7 @@ select:focus {
 }
 
 .footer-content {
-    width: 60%;
+    width: 75%;
     display: flex;
     color: white;
     align-items: center;
